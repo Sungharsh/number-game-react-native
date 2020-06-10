@@ -1,6 +1,6 @@
 ## React Native Mobile Application - Guess A Number Game.<br />
 
-Check this React.JS application at this link: [sungharsh.dev](http://sungharsh.dev.s3-website.eu-west-2.amazonaws.com/).
+Profile: [sungharsh.dev](https://sungharsh.github.io/).
 
 To test this repo - npm install<br />
 
